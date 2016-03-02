@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1456920917 source:c:\users\user\desktop\lab#2\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<tchar.h>
+	<commctrl.h>
+	"resource.h"
+
+1456851207 c:\users\user\desktop\lab#2\resource.h
+
